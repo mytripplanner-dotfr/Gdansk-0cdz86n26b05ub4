@@ -1,0 +1,112 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "⚓",
+  "titre": "Escapade relaxante à Gdańsk : Histoire et douceur baltique",
+  "budget_total": "650-700 €/pers",
+  "duree": "4 jours",
+  "temps_vol": "2h15 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et douce immersion dans la Vieille Ville",
+      "legende": "Après votre vol depuis Paris, installez-vous confortablement à Gdańsk. Laissez-vous charmer par l'architecture colorée de la Vieille Ville et ses ruelles pavées. Une première soirée paisible pour s'imprégner de l'atmosphère unique de cette cité hanséatique, sans précipitation.",
+      "lieu": "Gdańsk",
+      "activites": [
+        "<strong>🛬</strong>: Vol Paris-Gdańsk et transfert vers votre hébergement. Profitez du trajet pour admirer les premiers paysages polonais.",
+        "<strong>🛏️</strong>: Installation à l'hôtel et moment de détente. Prenez le temps de vous rafraîchir et de vous reposer après le voyage.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante sur le Długi Targ (Long Marché) et découverte de la Fontaine de Neptune. Admirez les façades colorées et l'ambiance animée de la place principale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "L'aéroport de Gdańsk (GDN) est bien desservi par les transports en commun (bus, train) pour rejoindre le centre-ville en environ 30-40 minutes. C'est une option économique et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⚓",
+      "titre": "Plongée dans l'histoire et l'art de l'ambre",
+      "legende": "Explorez le passé fascinant de Gdańsk, berceau du mouvement Solidarność, avant de vous immerger dans le monde scintillant de l'ambre. Terminez la journée par une promenade apaisante le long de la Motława, admirant les grues médiévales et les façades colorées de la ville.",
+      "lieu": "Gdańsk",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du Centre Européen de la Solidarité, un lieu emblématique de l'histoire polonaise moderne. Une expérience émouvante et enrichissante.",
+        "<strong>💎</strong>: Découverte du Musée de l'Ambre, pour admirer des pièces uniques et en apprendre sur \"l'or de la Baltique\". Un musée fascinant et visuellement captivant.",
+        "<strong>⛵</strong>: Croisière relaxante sur la Motława ou promenade le long des quais, offrant des vues pittoresques sur la ville. Laissez-vous bercer par le clapotis de l'eau."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Le Centre Européen de la Solidarité est vaste, prévoyez au moins 2-3 heures pour une visite complète et immersive. Des audioguides sont disponibles pour une meilleure compréhension."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏖️",
+      "titre": "Évasion balnéaire à Sopot",
+      "legende": "Échappez à l'agitation urbaine pour une journée de détente à Sopot, la charmante station balnéaire voisine. Profitez de l'air marin, promenez-vous sur la plus longue jetée en bois d'Europe et admirez l'architecture unique de la ville. Une parenthèse apaisante au bord de la mer Baltique.",
+      "lieu": "Sopot",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train relaxant de Gdańsk à Sopot (environ 20-30 min). Le voyage offre de jolies vues sur la côte.",
+        "<strong>🚶‍♀️</strong>: Promenade sur le Molo de Sopot, la plus longue jetée en bois d'Europe, avec vue sur la mer. Respirez l'air frais et admirez le panorama.",
+        "<strong>🏖️</strong>: Détente sur la plage de Sopot ou exploration de la célèbre \"Maison Tordue\" (Krzywy Domek). Profitez du sable fin ou de l'architecture insolite."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Bien-être",
+          "texte": "Sopot est réputée pour ses spas et centres de thalassothérapie. Une option pour une relaxation profonde si le budget le permet et si vous souhaitez une pause bien-être."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Doux adieux à Gdańsk",
+      "legende": "Profitez de vos dernières heures à Gdańsk pour quelques emplettes ou une dernière immersion culturelle. Un brunch savoureux pour clore ce séjour avant de prendre le chemin de l'aéroport, la tête remplie de souvenirs apaisants de cette belle ville polonaise.",
+      "lieu": "Gdańsk",
+      "activites": [
+        "<strong>⛪</strong>: Visite de la Basilique Sainte-Marie, l'une des plus grandes églises en brique du monde, pour une vue panoramique (optionnel). Montez les marches pour une vue imprenable sur la ville.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs, notamment des bijoux en ambre ou des produits locaux. Flânez dans les petites boutiques de la Vieille Ville.",
+        "<strong>🛫</strong>: Transfert vers l'aéroport de Gdańsk et vol retour vers Paris. Gardez un peu de temps pour les formalités et un dernier café polonais."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport et les formalités d'embarquement. Il est conseillé d'arriver au moins 2 heures avant le départ pour un vol international."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 198 €/pers (A/R Paris-Gdańsk)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20-30 €/pers (transports locaux et A/R Sopot)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 160-200 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180-240 €/pers (3 nuits en hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 40-50 €/pers (musées, croisière, Molo)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Złoty polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Les températures à Gdańsk sont douces en été (20-25°C) et fraîches au printemps/automne (10-18°C). Prévoyez des couches de vêtements.", "symbole": "👕" },
+    { "titre": "La langue officielle est le polonais. L'anglais est couramment parlé dans les zones touristiques, les hôtels et les restaurants.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type E (comme en France), aucun adaptateur n'est nécessaire pour vos appareils.", "symbole": "🔌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-GDN/2025-05-15/2025-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Gdańsk", "url": "https://www.gdansk.pl/turystyka", "symbole": "📘" },
+    { "legende": "Horaires des transports locaux", "titre": "ZTM Gdańsk", "url": "https://ztm.gda.pl/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Gdańsk", "url": "https://www.meteoprog.com/fr/weather/Gdansk/", "symbole": "🌤️" }
+  ]
+}
